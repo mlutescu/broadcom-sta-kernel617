@@ -1,0 +1,15 @@
+# Build artifacts
+*.ko
+*.o
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+modules.order
+Module.symvers
+.tmp_versions/
+# Patch artifacts
+*.orig
+*.rej
+# Pre-compiled binary blobs
+lib/
